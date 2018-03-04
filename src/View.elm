@@ -242,9 +242,8 @@ inputForm =
 
 
 footerArea =
-    row
+    paragraph
         [ Font.color darkBlue
-        , paddingTop 20
         ]
         [ newTabLink
             [ padding gutter
@@ -260,7 +259,7 @@ footerArea =
             [ Font.bold
             , Font.underline
             , Font.size 18
-            , centerY
+            , paddingLeft 20
             ]
             { url = "https://github.com/jbrgfx"
             , label = Element.text "jbrgfx's github repos"
