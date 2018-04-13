@@ -2,7 +2,7 @@
 
 # Demo
 
-[repsonsive-filtered-list](https://jbrgfx.github.io/responsive-filtered-list/)
+[responsive-filtered-list](https://jbrgfx.github.io/responsive-filtered-list/)
 
 ## Getting started
 
