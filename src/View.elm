@@ -142,7 +142,8 @@ theAppDesc =
             , Element.spacingXY 4 100
             , padding 10
             , Font.size 40
-            , Font.lineHeight 0.5
+
+            -- , Font.lineHeight 0.5 -- no longer supported
             , Font.color darkBlue
             , Background.color white
             ]
@@ -166,7 +167,8 @@ overViewDesc =
             , Element.spacingXY 4 100
             , padding 10
             , Font.size 40
-            , Font.lineHeight 0.5
+
+            -- , Font.lineHeight 0.5 -- no longer supported
             , Font.color darkBlue
             , Background.color white
             ]
