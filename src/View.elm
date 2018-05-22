@@ -254,8 +254,8 @@ footerArea =
             , Font.underline
             , alignBottom
             ]
-            { url = "http://package.elm-lang.org/packages/mdgriffith/stylish-elephants/4.0.0"
-            , label = Element.text "stylish-elephants 4.0.0: package docs"
+            { url = "http://package.elm-lang.org/packages/mdgriffith/stylish-elephants/latest/"
+            , label = Element.text "stylish-elephants latest package docs"
             }
         , newTabLink
             [ Font.bold
